@@ -215,7 +215,7 @@ $NEUTRON_MULTI
   neutrond query wasm contract-state smart $NEUTRON_ORACLE "$QUERY" --output json --node=$NEUTRON_NODE
   ```
 
-- Verify Swaper Routes are set correctly:
+- Verify Swapper Routes are set correctly:
 
   ```bash
   QUERY='{"routes":{}}'
